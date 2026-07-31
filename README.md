@@ -65,12 +65,6 @@ Full design details, formulas, state tables, and diagrams are in the [Project Re
 
 ---
 
-## 📧 Contact / Mentor Queries
-
-For implementation questions or clarifications, email **training@elevanceskills.com** with your name, domain, GitHub repository link, and Wokwi project link.
-
----
-
 ## 👤 Submitted By
 
 - **Name:** Vishala
