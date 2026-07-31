@@ -73,6 +73,6 @@ For implementation questions or clarifications, email **training@elevanceskills.
 
 ## 👤 Submitted By
 
-- **Name:** _your name_
+- **Name:** Vishala
 - **Domain:** Embedded Systems / IoT Battery Management
 - **Date:** July 2026
