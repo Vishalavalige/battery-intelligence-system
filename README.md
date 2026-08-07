@@ -64,6 +64,8 @@ Full design details, formulas, state tables, and diagrams are in the [Project Re
 4. Connect the Blynk app using the project's auth token (see comments in the `.ino` file) to view the cloud dashboard.
 
 ---
+https://youtu.be/Aj4REixHmSY
+
 
 ## 👤 Submitted By
 
