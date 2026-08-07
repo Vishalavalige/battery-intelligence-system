@@ -74,4 +74,4 @@ Full design details, formulas, state tables, and diagrams are in the [Project Re
 
 - **Name:** Vishala
 - **Domain:** Embedded Systems / IoT Battery Management
-- **Date:** July 2026
+- **Date:** August 2026
