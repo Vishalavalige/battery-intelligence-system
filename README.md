@@ -11,7 +11,7 @@ A production-grade, 4-cell lithium battery intelligence system built on Arduino/
 | Resource | Link |
 |---|---|
 | 🧪 **Live Wokwi Simulation** | [Open Project](https://wokwi.com/projects/471041354403229697) |
-| 🎥 **Demo Video** | [Watch Demo](https://youtu.be/YOUR_VIDEO_ID) |
+| 🎥 **Demo Video** | [Watch Demo](https://youtu.be/Aj4REixHmSY?si=C2NqUMR3kZFJGC9W) |
 | 📄 **Full Project Report** | [docs/Project_Report.docx](docs/Project_Report.docx) |
 | 🖼️ **Architecture Diagram** | [docs/Architecture_Diagram.png](docs/Architecture_Diagram.png) |
 | 🖼️ **Workflow Diagram** | [docs/Workflow_Diagram.png](docs/Workflow_Diagram.png) |
